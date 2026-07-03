@@ -71,7 +71,7 @@ body {
   font-size: 1rem;
   font-weight: 250;
   transition: color 0.3s ease;
-  padding-bottom: 0.5px;
+  padding-bottom: 0px;
 }
 
 .nav-link:hover {
