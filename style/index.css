@@ -6,3 +6,8 @@
   --color-bg: #F5F7FC;
   --color-text: #1A1A2E;
 }
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg);
+}
